@@ -5,7 +5,8 @@ import { withStyles } from 'material-ui/styles'
 
 const styles = {
   cointainer: {
-    display: 'flex'
+    display: 'flex',
+    justifyContent: 'space-between'
   }
 }
 
